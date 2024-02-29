@@ -154,6 +154,10 @@
 
 @media (max-width:414px) {
 
+    .header {
+        min-height: auto;
+    }
+
     .main__title,
     .choose-color__title {
         font-size: 28px;
