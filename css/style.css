@@ -202,6 +202,7 @@ body {
     padding: 50px 55px;
     border: 1px solid rgb(119, 119, 119);
     border-radius: 20px;
+    transition: box-shadow 0.3s ease-in-out;
 }
 
 .choose__color-btn--active {
